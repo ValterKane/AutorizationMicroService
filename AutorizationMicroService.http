@@ -1,0 +1,6 @@
+@AutorizationMicroService_HostAddress = http://localhost:5251
+
+GET {{AutorizationMicroService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
